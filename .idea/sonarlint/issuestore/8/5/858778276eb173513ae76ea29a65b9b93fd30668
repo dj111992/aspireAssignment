@@ -1,0 +1,18 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó8ı’œÆÛ.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àş®¡8ı’œÆÛ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­²Î±ÿÿÿÿÿ8×ßŞ•/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸ÖŞÃÿÿÿÿÿ8×ßŞ•/
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(Ÿ€Ùµÿÿÿÿÿ8ı’œÆÛ.
+f
+java:S2259d"DA "NullPointerException" could be thrown; "driver" is nullable here.(µ¾Øûÿÿÿÿ8ı’œÆÛ.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–å‡8×ßŞ•/
+j
+java:S1192A"HDefine a constant instead of duplicating this literal "Drivers" 4 times.(’âûİøÿÿÿÿ8ı’œÆÛ.
+g
+java:S2259="EA "NullPointerException" could be thrown; "browser" is nullable here.(ù‡Ùîüÿÿÿÿ8×ßŞ•/
+>
+java:S1116""Remove this empty statement.(Åñ­õşÿÿÿÿ8àÊõŞÛ.
+r	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”®øÿÿÿÿ8ı’œÆÛ.
+
+java:S1488Š"\Immediately return this expression instead of assigning it to the temporary variable "dest".(´¶õÿÿÿÿÿ8ı’œÆÛ.

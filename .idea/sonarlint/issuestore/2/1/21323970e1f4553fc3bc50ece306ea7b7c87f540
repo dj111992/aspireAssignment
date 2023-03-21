@@ -1,0 +1,22 @@
+
+9
+java:S16430"Use a StringBuilder instead.(ÿäüâ8æĞÿÃÛ.
+£
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ûïú¬ıÿÿÿÿ8øòÂô•/
+£
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰©§Îúÿÿÿÿ8øòÂô•/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó8æĞÿÃÛ.
+£
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢Œùÿÿÿÿÿ8øòÂô•/
+£
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦»Áûøÿÿÿÿ8øòÂô•/
+£
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷Íñ¯ÿÿÿÿÿ8æĞÿÃÛ.
+£
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï¿²èÿÿÿÿÿ8øòÂô•/
+£
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼Êı©øÿÿÿÿ8øòÂô•/
+`
+java:S3252"">Use static access with "org.testng.ITestResult" for "SUCCESS".(«‰—üÿÿÿÿ8øòÂô•/
+`
+java:S32521">Use static access with "org.testng.ITestResult" for "FAILURE".(èü¬ãÿÿÿÿÿ8æĞÿÃÛ.

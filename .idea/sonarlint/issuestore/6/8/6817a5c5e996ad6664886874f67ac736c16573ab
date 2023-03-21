@@ -1,0 +1,39 @@
+
+HWeb:BoldAndItalicTagsCheck/"Replace this <i> tag by <em>.(¨«ôµÿÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck¥"Replace this <i> tag by <em>.(Ş×“üÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck¨"Replace this <i> tag by <em>.(íÅÜŞ
+IWeb:BoldAndItalicTagsCheck«"Replace this <i> tag by <em>.(¯šØùÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck§"Replace this <i> tag by <em>.(¢ù÷
+HWeb:BoldAndItalicTagsCheck-"Replace this <i> tag by <em>.(üÿÿŒıÿÿÿÿ
+IWeb:BoldAndItalicTagsCheck¬"Replace this <i> tag by <em>.(Ü§®üøÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck©"Replace this <i> tag by <em>.(°öé–
+DWeb:BoldAndItalicTagsCheck¦"Replace this <i> tag by <em>.(Œ¿ŒÕ
+DWeb:BoldAndItalicTagsCheckª"Replace this <i> tag by <em>.(İ¾È¾
+CWeb:BoldAndItalicTagsCheck*"Replace this <i> tag by <em>.(ëšÍì
+CWeb:BoldAndItalicTagsCheck5"Replace this <i> tag by <em>.(ªÕ„ú
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+JWeb:BoldAndItalicTagsChecks"Replace this <i> tag by <em>.(ôÂù8ÎÚóœà.
+PWeb:BoldAndItalicTagsCheck†"Replace this <i> tag by <em>.(¶©¼şÿÿÿÿ8ÎÚóœà.
+UWeb:TableWithoutCaptionCheck¡" Add a description to this table.(¿‰˜ÿÿÿÿÿ8ÎÚóœà.
+o Web:TableHeaderHasIdOrScopeCheck¤";Add either an 'id' or a 'scope' attribute to this <th> tag.(×ƒ¥À8ÎÚóœà.
+t Web:TableHeaderHasIdOrScopeCheck¥";Add either an 'id' or a 'scope' attribute to this <th> tag.(õ¿Ğ…ÿÿÿÿÿ8ÎÚóœà.
+PWeb:BoldAndItalicTagsCheckË"Replace this <i> tag by <em>.(öª¯³ûÿÿÿÿ8ÎÚóœà.
+KWeb:BoldAndItalicTagsCheck×"Replace this <i> tag by <em>.(ÿ©ÿ…8ÎÚóœà.
+PWeb:BoldAndItalicTagsCheckÜ"Replace this <i> tag by <em>.(¬»ì®úÿÿÿÿ8ÎÚóœà.
+JWeb:BoldAndItalicTagsChecká"Replace this <i> tag by <em>.(ïÄÓs8ÎÚóœà.
+KWeb:BoldAndItalicTagsChecké"Replace this <i> tag by <em>.(çú—Ò8ÎÚóœà.
+UWeb:TableWithoutCaptionCheck€" Add a description to this table.(ÊúÖÏşÿÿÿÿ8ÎÚóœà.
+o Web:TableHeaderHasIdOrScopeCheckƒ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8ÎÚóœà.
+o Web:TableHeaderHasIdOrScopeCheck„";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8ÎÚóœà.
+o Web:TableHeaderHasIdOrScopeCheck…";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8ÎÚóœà.
+PWeb:BoldAndItalicTagsCheckŠ"Replace this <i> tag by <em>.(·‚Ä³ûÿÿÿÿ8ÎÚóœà.
+^Web:UnsupportedTagsInHtml5CheckŒ"&Remove this deprecated "font" element.(ÖÿÇçùÿÿÿÿ8ÎÚóœà.
+^Web:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(è‡½»ıÿÿÿÿ8ÎÚóœà.
+^Web:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(…¨Êéúÿÿÿÿ8ÎÚóœà.
+TWeb:BoldAndItalicTagsCheck"!Replace this <B> tag by <strong>.(…¨Êéúÿÿÿÿ8ÎÚóœà.
+^Web:LinkToImageCheck"1Change this link to not directly target an image.(…¨Êéúÿÿÿÿ8ÎÚóœà.
+YWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ÄÃÃ™8ÎÚóœà.
+OWeb:BoldAndItalicTagsCheck"!Replace this <B> tag by <strong>.(ÄÃÃ™8ÎÚóœà.
+Œ	Web:S5148"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(ÄÃÃ™8ÎÚóœà.
+^Web:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Š©Èüûÿÿÿÿ8ÎÚóœà.
+^Web:UnsupportedTagsInHtml5Check‘"&Remove this deprecated "font" element.(Ãâ¡ıÿÿÿÿ8ÎÚóœà.

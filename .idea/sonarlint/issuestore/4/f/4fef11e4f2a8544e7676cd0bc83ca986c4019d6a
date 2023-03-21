@@ -1,0 +1,72 @@
+
+A
+java:S5411İ"*Use the primitive boolean expression here.(Ùµ³
+j
+java:S1192ƒ"NDefine a constant instead of duplicating this literal "' on the page" 3 times.(¬Ü´ùÿÿÿÿ
+l	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”®øÿÿÿÿ
+^
+java:S2259é"G"NullPointerException" will be thrown when invoking method "getText()".(ğ½¨…
+i	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·à—úÿÿÿÿ
+c
+java:S1192™"GDefine a constant instead of duplicating this literal "{skip}" 4 times.(­öîüÿÿÿÿ
+`
+java:S1192M"JDefine a constant instead of duplicating this literal "Element '" 8 times.(„ÜÀ„
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÜšŒ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬Ï°¨øÿÿÿÿ
+F
+java:S5411È"*Use the primitive boolean expression here.(Ü­¿ÿÿÿÿÿ
+g
+java:S2259æ"PA "NullPointerException" could be thrown; "elementToBeClicked" is nullable here.(Ùè¢™
+F
+java:S5411Â"*Use the primitive boolean expression here.(¦ÔÙ¤ıÿÿÿÿ
+D
+java:S2786")Remove this redundant "static" qualifier.(ÛôÖÿÿÿÿÿ
+7
+java:S2129ú" Remove this "String" constructor(×Êˆ­
+F
+java:S5411§"*Use the primitive boolean expression here.(êŠê¶üÿÿÿÿ
+
+java:S1192w"tDefine a constant instead of duplicating this literal "Stale element reference exception. Trying again..." 11 times.(òí€ÿÿÿÿÿ
+~
+java:S1192A"cDefine a constant instead of duplicating this literal "arguments[0].scrollIntoView(false)" 4 times.(èºÎŠøÿÿÿÿ
+^
+java:S2259ã"G"NullPointerException" will be thrown when invoking method "getText()".(ğ½¨…
+7
+java:S1116%"Remove this empty statement.(ôŸìúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó
+c
+java:S1192›"LDefine a constant instead of duplicating this literal "Select the " 3 times.(òÑø†
+l	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”®øÿÿÿÿ
+F
+java:S5411š"*Use the primitive boolean expression here.(êŠê¶üÿÿÿÿ
+r
+java:S1192¥"VDefine a constant instead of duplicating this literal "arguments[0].click();" 3 times.(ûŞ•ºùÿÿÿÿ
+a
+java:S2147ï"ECombine this catch with the one at line 491, which has the same body.(—Îé¼ÿÿÿÿÿ
+F
+java:S5411ã"*Use the primitive boolean expression here.(Ìƒ® úÿÿÿÿ
+B
+java:S1168¢"+Return an empty collection instead of null.(¥¹ï
+g
+java:S2259Ë"PA "NullPointerException" could be thrown; "elementToBeClicked" is nullable here.(Ùè¢™
+i	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¢ïüÿÿÿÿ
+a
+java:S2147Í"ECombine this catch with the one at line 457, which has the same body.(—Îé¼ÿÿÿÿÿ
+B
+java:S1168–"+Return an empty collection instead of null.(¥¹ï
+W
+java:S1141p"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8ü€ßŞ•/
+X
+java:S1141ı"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8ü€ßŞ•/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÚßÒšûÿÿÿÿ8ü€ßŞ•/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çàñ8ü€ßŞ•/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰¦É¢8ü€ßŞ•/
+{	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ã‰ªüıÿÿÿÿ8ü€ßŞ•/
+{	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È¹™Ôüÿÿÿÿ8ü€ßŞ•/
+{	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«ˆ‚Çüÿÿÿÿ8ü€ßŞ•/
+{	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š¿•”ùÿÿÿÿ8ü€ßŞ•/
+v	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú¡á¢8ü€ßŞ•/
+J	java:S108E")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ü€ßŞ•/
+K	java:S108„")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ü€ßŞ•/
+K	java:S108×")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ü€ßŞ•/
+K	java:S108ÿ")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ü€ßŞ•/

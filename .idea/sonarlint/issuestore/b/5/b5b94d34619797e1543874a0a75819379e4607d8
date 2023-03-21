@@ -1,0 +1,18 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó8” æÄÛ.
+k
+java:S1192G"IDefine a constant instead of duplicating this literal " seconds" 4 times.(¸îÙ¡ûÿÿÿÿ8” æÄÛ.
+x
+java:S1192,"VDefine a constant instead of duplicating this literal "Started waiting for '" 5 times.(óàöùÿÿÿÿ8‡ä©à.
+l
+java:S1192G"JDefine a constant instead of duplicating this literal "Element '" 5 times.(¸îÙ¡ûÿÿÿÿ8” æÄÛ.
+q
+java:S1192-"ODefine a constant instead of duplicating this literal "ObjectWaitTime" 9 times.(¨×ä¶øÿÿÿÿ8‡ä©à.
+ƒ
+java:S1192;"aDefine a constant instead of duplicating this literal "Even after second try, element '" 4 times.(Òùùıùÿÿÿÿ8” æÄÛ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(àØ×–ûÿÿÿÿ8ÍßŞ•/
+
+java:S11924"{Define a constant instead of duplicating this literal "StaleElementReferenceException occured, so trying again..." 5 times.(œæ‚ıüÿÿÿÿ8‡ä©à.
+h
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ÇâŞáøÿÿÿÿ8ÍßŞ•/

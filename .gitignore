@@ -1,0 +1,10 @@
+*.class
+.metadata/*
+.settings/*
+test-output/*
+Results/*
+bin/*
+target/*
+.recommenders/*
+/target/
+.DS_Store

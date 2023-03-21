@@ -1,0 +1,27 @@
+
+U	java:S106’"9Replace this use of System.out or System.err by a logger.(öÀ¡u8«œ¡ÆÛ.
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(·ë¥¬8«œ¡ÆÛ.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ÿÃÔšûÿÿÿÿ8Å–·ÌÛ.
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(ƒıú¬8«œ¡ÆÛ.
+{
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¹óùÿÿÿÿ8Å–·ÌÛ.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¶¶¢ª8Å–·ÌÛ.
+v
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ‘ÆÀ8«œ¡ÆÛ.
+v
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ‘ÆÀ8«œ¡ÆÛ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó8«œ¡ÆÛ.
+z
+java:S1488ú"\Immediately return this expression instead of assigning it to the temporary variable "dest".(ÑÀ¹8«œ¡ÆÛ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(†¨Öœ8«œ¡ÆÛ.
+
+java:S13192"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ª²ÿÿÿÿÿ8ùÊßŞ•/
+Š
+java:S1319`"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ú•İó8ùÊßŞ•/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(­Ğºå8ùÊßŞ•/
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÂïìÚ8ùÊßŞ•/
+M
+java:S2093±"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8ùÊßŞ•/
+O
+java:S1172ø"1Remove this unused method parameter "testConfig".(ŞêÎ¡8ùÊßŞ•/

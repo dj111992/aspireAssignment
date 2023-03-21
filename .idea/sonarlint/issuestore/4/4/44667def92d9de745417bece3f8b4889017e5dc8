@@ -1,0 +1,18 @@
+
+{
+java:S1488Š"_Immediately return this expression instead of assigning it to the temporary variable "dateNow".(´ñàèıÿÿÿÿ
+3
+java:S2119K"Save and re-use this "Random".(¼İÅf
+9
+java:S21197"Save and re-use this "Random".(®ø»›şÿÿÿÿ
+
+java:S1488›"cImmediately return this expression instead of assigning it to the temporary variable "currentTime".(‰å¬Ñüÿÿÿÿ
+9
+java:S2119"Save and re-use this "Random".(®ø»›şÿÿÿÿ
+9
+java:S2119&"Save and re-use this "Random".(®ø»›şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó
+W
+java:S3457N"AFormat specifiers should be used instead of string concatenation.(àØ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Û­ºå

@@ -1,0 +1,22 @@
+
+n
+java:S3457b"Q%n should be used in place of \n to produce the platform-specific line separator.(™€ψ8ΌΏΐΓΫ.
+
+java:S1130Q"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ψΦΏύÿÿÿÿ8¤©δή•/
+
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ηÿκΖ8¤©δή•/
+I
+java:S1168"+Return an empty collection instead of null.(¥Ήο8ΌΏΐΓΫ.
+¤
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ηΔύÿÿÿÿ8¤©δή•/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Τισ
+
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ί¤Ί8¤©δή•/
+
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ϋ…Θ8¤©δή•/
+I
+java:S1144s",Remove this unused private "getTime" method.( Ψ°ή8¤©δή•/
+¤
+java:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ªÿÿÿÿÿ8¤©δή•/
+
+java:S1186ω"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Π€±8¤©δή•/

@@ -1,0 +1,21 @@
+
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñ—×Ê8Ã€ÄÛ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ôéó8Ã€ÄÛ.
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ñ—×Ê8Ã€ÄÛ.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğíÚß8½ÒäŞ•/
+i	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙÊH8½ÒäŞ•/
+j	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô«Ö”8½ÒäŞ•/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘»°—8Ã€ÄÛ.
+j
+java:S1192"MDefine a constant instead of duplicating this literal "</font></br>" 5 times.(ÎùØ‚8Ã€ÄÛ.
+V
+java:S1118
+":Add a private constructor to hide the implicit public one.(ê­ô8½ÒäŞ•/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8Ã€ÄÛ.
+j	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú“³è8½ÒäŞ•/
+S
+java:S11726"1Remove this unused method parameter "testConfig".(‚Ê•ÿÿÿÿÿ8½ÒäŞ•/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ‚Ãşÿÿÿÿ8½ÒäŞ•/
+j	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œïƒ‹8Ã€ÄÛ.

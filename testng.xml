@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Practice Suite" verbose="2" parallel="tests" thread-count="99">
+    <listeners>
+        <listener class-name="TestAutomation.helpers.ExtentReporter"></listener>
+    </listeners>
+    <test name="Test Sample Aspire">
+        <classes>
+            <class name="TestAutomation.TestBuyNow"/>
+        </classes>
+    </test>
+
+</suite>
